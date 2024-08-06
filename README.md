@@ -1,5 +1,5 @@
 <h1 align="center">
-   Eclipse
+   Eclipse-TOKEN GRABBER-COOKIE STEALER-PASSWORD STEALER-
 </h1>
 <p align= "center">
    <kbd>
